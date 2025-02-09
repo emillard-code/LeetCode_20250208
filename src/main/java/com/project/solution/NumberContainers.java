@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.TreeSet;
 
-class NumberContainers {
+public class NumberContainers {
 
     // Maps from number to set of indices and from index to number
     private Map<Integer, TreeSet<Integer>> numberToIndices;
